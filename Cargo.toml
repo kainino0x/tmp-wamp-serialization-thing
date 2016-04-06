@@ -1,0 +1,7 @@
+[package]
+name = "wampserializable"
+version = "0.1.0"
+authors = ["Kai Ninomiya <kainino1@gmail.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
